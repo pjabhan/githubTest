@@ -7,4 +7,6 @@ chicken recipe
 chicken khurma
 chicken kabab 
 
+spinach
+mushroom
 
